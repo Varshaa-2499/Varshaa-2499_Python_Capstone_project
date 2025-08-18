@@ -8,41 +8,39 @@ This project explores the Nykaa cosmetics dataset to uncover patterns in pricing
 
 🔹 Objectives
 
-Standardize and clean product/review data (brand, category, price, ratings, reviews).
+* Standardize and clean product/review data (brand, category, price, ratings, reviews).
 
-Analyze price distribution, rating patterns, and top brands/categories.
+* Analyzeed price distribution, rating patterns, and top brands/categories.
 
-Identify best-value products (high rating, low price).
+* Identified best-value products (high rating, low price).
 
-Mine review sentiment and keywords that drive satisfaction.
+* Mine review sentiment and keywords that drive satisfaction.
 
-Build a small predictive model (classification/regression).
+* Build a small predictive model (classification/regression).
 
 
 🔹 Key Visuals
 
-Export PNGs to reports/figures/ and reference them below.
+* Price vs Rating value quadrant.
 
-Price vs Rating value quadrant (scatter with quadrant lines)
+* Top brands/categories by SKUs and by rating_count
 
-Top brands/categories by SKUs and by rating_count
+* Box plots: price by category, rating by brand
 
-Box plots: price by category, rating by brand
+* Word clouds / top n-grams: positive vs negative reviews (optional)
 
-Word clouds / top n-grams: positive vs negative reviews (optional)
-
-Confusion matrix (if you built a model)
+* Confusion matrix (if you built a model)
 
 
 🔹 Insights:
 
-Mid-range lipsticks have the highest median ratings and strong review volume.
+* Mid-range lipsticks have the highest median ratings and strong review volume.
 
-~70% of top-rated SKUs concentrate in a handful of brands.
+* ~70% of top-rated SKUs concentrate in a handful of brands.
 
-Reviews with “lightweight”/“non-sticky” skew positive; “drying” skews negative.
+* Reviews with “lightweight”/“non-sticky” skew positive; “drying” skews negative.
 
-Discounts >20% correlate with higher review counts, with diminishing returns after ~40%.
+* Discounts >20% correlate with higher review counts, with diminishing returns after ~40%.
 
 
 
@@ -68,7 +66,4 @@ README.md → Project documentation.
 Dataset Source
 
 Kaggle – Hospital Management System Dataset
-
-This project showcases my ability to design SQL databases, perform complex queries, and generate operational insights from healthcare data.
-
 
