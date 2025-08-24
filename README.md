@@ -65,5 +65,5 @@ README.md → Project documentation.
 
 Dataset Source
 
-Kaggle – Hospital Management System Dataset
+Kaggle – Nykaa cosmetics
 
